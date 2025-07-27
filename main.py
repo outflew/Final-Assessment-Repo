@@ -6,3 +6,5 @@ print(f'x: {x}')
 
 print("last")
 print("no")
+for i in range(20):
+    print(i)
