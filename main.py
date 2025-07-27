@@ -5,3 +5,4 @@ x = 10
 print(f'x: {x}')
 
 print("last")
+print("no")
